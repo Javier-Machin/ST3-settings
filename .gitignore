@@ -1,0 +1,12 @@
+*.cache
+*.sublime-workspace
+
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Package Control.last-run
+__pycache__
+
+.SublimeREPLHistory
+todo.md
+Projects/
